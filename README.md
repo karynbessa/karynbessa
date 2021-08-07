@@ -9,7 +9,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="right" alt="gif" src="https://discord.com/channels/805653953245216801/805653953245216803/873514860225376267">
+ <img align="right" alt="gif" src="https://media.discordapp.net/attachments/805653953245216803/873514860334444594/Webp.net-gifmaker.gif?width=150&height=150">
   </div>
   
   ##
