@@ -14,7 +14,7 @@
  <p align="center"> <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6a6b6819-5130-420c-9e8c-732eaf70878e/Untitled_Artwork.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211008%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211008T180353Z&X-Amz-Expires=86400&X-Amz-Signature=6bedd29354871556622c400917d85865ab6ad182d1078b7d7747fc4a826e37f5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled_Artwork.gif%22" alt="karynbessa" /> </p>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karynbessa&show_icons=true&bg_color=fae2bd&title_color=58402e&text_color=834b32&icon_color=6c9466&hide=contribs,prs) 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karynbessa&layout=compact&bg_color=fae2bd&title_color=58402e&text_color=834b32&card_width=410x)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karynbessa&layout=compact&bg_color=fae2bd&title_color=58402e&text_color=834b32)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
